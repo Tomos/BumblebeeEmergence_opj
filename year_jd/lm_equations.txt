@@ -1,0 +1,46 @@
+B. terrestris mean emergence date for 1 gyne(s): Julian Date = -0.227.Year + 520.235
+B. terrestris mean emergence date for 3 gyne(s): Julian Date = -0.475.Year + 1024.118
+B. terrestris mean emergence date for 5 gyne(s): Julian Date = -0.453.Year + 981.486
+B. terrestris mean emergence date for 7 gyne(s): Julian Date = -0.407.Year + 891.639
+
+
+B. lucorum agg. mean emergence date for 1 gyne(s): Julian Date = -0.326.Year + 730.806
+B. lucorum agg. mean emergence date for 3 gyne(s): Julian Date = -0.400.Year + 883.575
+B. lucorum agg. mean emergence date for 5 gyne(s): Julian Date = -0.448.Year + 978.909
+B. lucorum agg. mean emergence date for 7 gyne(s): Julian Date = -0.453.Year + 992.419
+
+
+B. pratorum mean emergence date for 1 gyne(s): Julian Date = -0.599.Year + 1277.937
+B. pratorum mean emergence date for 3 gyne(s): Julian Date = -0.750.Year + 1584.099
+B. pratorum mean emergence date for 5 gyne(s): Julian Date = -0.765.Year + 1615.901
+B. pratorum mean emergence date for 7 gyne(s): Julian Date = -0.781.Year + 1650.110
+
+
+B. pascuorum mean emergence date for 1 gyne(s): Julian Date = -0.020.Year + 131.070
+B. pascuorum mean emergence date for 3 gyne(s): Julian Date = -0.244.Year + 585.856
+B. pascuorum mean emergence date for 5 gyne(s): Julian Date = -0.426.Year + 953.711
+B. pascuorum mean emergence date for 7 gyne(s): Julian Date = -0.443.Year + 990.299
+
+
+B. hortorum mean emergence date for 1 gyne(s): Julian Date = -0.436.Year + 963.414
+B. hortorum mean emergence date for 3 gyne(s): Julian Date = -0.381.Year + 856.108
+B. hortorum mean emergence date for 5 gyne(s): Julian Date = -0.462.Year + 1021.122
+B. hortorum mean emergence date for 7 gyne(s): Julian Date = -0.554.Year + 1206.688
+
+
+B. lapidarius mean emergence date for 1 gyne(s): Julian Date = -0.353.Year + 794.664
+B. lapidarius mean emergence date for 3 gyne(s): Julian Date = -0.121.Year + 332.781
+B. lapidarius mean emergence date for 5 gyne(s): Julian Date = -0.113.Year + 317.476
+B. lapidarius mean emergence date for 7 gyne(s): Julian Date = -0.185.Year + 463.375
+
+
+B. monticola mean emergence date for 1 gyne(s): Julian Date = -0.556.Year + 1204.733
+B. monticola mean emergence date for 3 gyne(s): Julian Date = -0.313.Year + 715.812
+
+
+B. hypnorum mean emergence date for 1 gyne(s): Julian Date = -3.883.Year + 7901.122
+B. hypnorum mean emergence date for 3 gyne(s): Julian Date = -3.933.Year + 8003.911
+B. hypnorum mean emergence date for 5 gyne(s): Julian Date = -3.467.Year + 7065.733
+B. hypnorum mean emergence date for 7 gyne(s): Julian Date = -3.733.Year + 7606.422
+
+
